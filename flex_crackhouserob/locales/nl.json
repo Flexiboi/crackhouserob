@@ -1,0 +1,22 @@
+{
+   "success": {
+   },
+   "error": {
+      "exploit_kick": "Ela, wat doe je nu...",
+      "call_police": "Huisinbraak...",
+      "found_nothing": "Jammer, je hebt niets gevonden...",
+      "dont_have_item": "Wat zou ik hier voor nodig hebben...?"
+   },
+   "target": {
+      "destraction": "Kloppen",
+      "loot": "Plunderen",
+      "lockpick": "Opebreken"
+   },
+   "instruction": {
+   },
+   "progress": {
+      "knocking": "Op raam kloppen...",
+      "loot": "Plunderen...",
+      "lockpick": "Opebreken..."
+   }
+}
