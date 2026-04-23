@@ -1,5 +1,5 @@
 SV_Config = {}
-SV_Config.WEBHOOK = 'https://discord.com/api/webhooks/1475113052021194854/xqtlUZXAaCj1JM69tt7LMXkDcgXECl9JVbmkHCj1h4DRNBZ5uZwkyKdqREj_n9FUhfkE'
+SV_Config.WEBHOOK = ''
 
 Config.ResetTime = 30 -- Minutes
 
